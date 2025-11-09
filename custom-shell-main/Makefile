@@ -1,8 +1,8 @@
 # ============================
 # Custom Shell - Capstone Project
-# Author: Bade Naveen Kumar
-# Registration Number: 2241011121
-# Batch: 11
+# Author: Deepesh Kumar
+# Registration Number: 2241011126
+# Batch: 1
 # ============================
 
 # Compiler and flags
